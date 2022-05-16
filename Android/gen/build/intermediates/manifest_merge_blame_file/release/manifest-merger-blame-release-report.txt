@@ -1,0 +1,342 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="VYV.leucinose"
+4    android:installLocation="auto"
+5    android:versionCode="21"
+6    android:versionName="0.0.22.0" >
+7
+8    <uses-sdk
+8-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6338-6406
+9        android:minSdkVersion="21"
+9-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6348-6374
+10        android:targetSdkVersion="30" />
+10-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6375-6404
+11
+12    <supports-screens
+12-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6406-6565
+13        android:anyDensity="true"
+13-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6538-6563
+14        android:largeScreens="true"
+14-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6481-6508
+15        android:normalScreens="true"
+15-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6452-6480
+16        android:smallScreens="true"
+16-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6424-6451
+17        android:xlargeScreens="true" />
+17-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6509-6537
+18
+19    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+19-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6565-6640
+19-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6582-6638
+20    <uses-permission android:name="android.permission.CAMERA" />
+20-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6640-6699
+20-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6657-6697
+21    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+21-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6699-6773
+21-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6716-6771
+22    <uses-permission android:name="android.permission.INTERNET" />
+22-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6773-6834
+22-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6790-6832
+23
+24    <uses-feature
+24-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6834-6922
+25        android:name="android.hardware.camera.autofocus"
+25-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6848-6896
+26        android:required="true" />
+26-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6897-6920
+27    <uses-feature
+27-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6922-7000
+28        android:name="android.hardware.camera"
+28-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6936-6974
+29        android:required="true" />
+29-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6975-6998
+30
+31    <application
+31-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:228-6338
+32        android:name="fr.pcsoft.wdjava.core.application.WDAndroidApp"
+32-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:241-302
+33        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+33-->[androidx.core:core:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:24:18-86
+34        android:icon="@drawable/app_car_2"
+34-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:336-370
+35        android:label="@string/app_name"
+35-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:303-335
+36        android:largeHeap="true"
+36-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:371-395
+37        android:requestLegacyExternalStorage="true"
+37-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:467-510
+38        android:resizeableActivity="true"
+38-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:397-430
+39        android:usesCleartextTraffic="true" >
+39-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:431-466
+40        <activity
+40-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:511-924
+41            android:name="VYV.leucinose.wdgen.GWDPleucinose$WDLanceur"
+41-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:521-566
+42            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout"
+42-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:669-771
+43            android:label="@string/app_name"
+43-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:567-599
+44            android:theme="@style/Theme.AppCompat.Light.NoActionBar.Translucent" >
+44-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:600-668
+45            <intent-filter>
+45-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:772-913
+46                <action android:name="android.intent.action.MAIN" />
+46-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:787-838
+46-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:795-836
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:838-897
+48-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:848-895
+49            </intent-filter>
+50        </activity>
+51        <activity
+51-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:924-1172
+52            android:name="VYV.leucinose.wdgen.GWDFFEN_Repas$WDActiviteFenetre"
+52-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:934-987
+53            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+53-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:988-1097
+54            android:hardwareAccelerated="false"
+54-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1135-1170
+55            android:theme="@android:style/Theme" />
+55-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1098-1134
+56        <activity
+56-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1172-1430
+57            android:name="VYV.leucinose.wdgen.GWDFFEN_ajouteRepasHypo$WDActiviteFenetre"
+57-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1182-1245
+58            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+58-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1246-1355
+59            android:hardwareAccelerated="false"
+59-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1393-1428
+60            android:theme="@android:style/Theme" />
+60-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1356-1392
+61        <activity
+61-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1430-1678
+62            android:name="VYV.leucinose.wdgen.GWDFFEN_infos$WDActiviteFenetre"
+62-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1440-1493
+63            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+63-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1494-1603
+64            android:hardwareAccelerated="false"
+64-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1641-1676
+65            android:theme="@android:style/Theme" />
+65-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1604-1640
+66        <activity
+66-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1678-1925
+67            android:name="VYV.leucinose.wdgen.GWDFFEN_docs$WDActiviteFenetre"
+67-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1688-1740
+68            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+68-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1741-1850
+69            android:hardwareAccelerated="false"
+69-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1888-1923
+70            android:theme="@android:style/Theme" />
+70-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1851-1887
+71        <activity
+71-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1925-2178
+72            android:name="VYV.leucinose.wdgen.GWDFFEN_constantes$WDActiviteFenetre"
+72-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1935-1993
+73            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+73-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1994-2103
+74            android:hardwareAccelerated="false"
+74-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2141-2176
+75            android:theme="@android:style/Theme" />
+75-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2104-2140
+76        <activity
+76-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2178-2431
+77            android:name="VYV.leucinose.wdgen.GWDFFEN_impression$WDActiviteFenetre"
+77-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2188-2246
+78            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+78-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2247-2356
+79            android:hardwareAccelerated="false"
+79-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2394-2429
+80            android:theme="@android:style/Theme" />
+80-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2357-2393
+81        <activity
+81-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2431-2678
+82            android:name="VYV.leucinose.wdgen.GWDFFEN_Menu$WDActiviteFenetre"
+82-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2441-2493
+83            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+83-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2494-2603
+84            android:hardwareAccelerated="false"
+84-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2641-2676
+85            android:theme="@android:style/Theme" />
+85-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2604-2640
+86        <activity
+86-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2678-2944
+87            android:name="VYV.leucinose.wdgen.GWDFFEN_CameraLectureCodeBarres$WDActiviteFenetre"
+87-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2688-2759
+88            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+88-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2760-2869
+89            android:hardwareAccelerated="false"
+89-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2907-2942
+90            android:theme="@android:style/Theme" />
+90-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2870-2906
+91        <activity
+91-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2944-3195
+92            android:name="VYV.leucinose.wdgen.GWDFFEN_echanges$WDActiviteFenetre"
+92-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2954-3010
+93            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+93-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3011-3120
+94            android:hardwareAccelerated="false"
+94-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3158-3193
+95            android:theme="@android:style/Theme" />
+95-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3121-3157
+96        <activity
+96-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3195-3448
+97            android:name="VYV.leucinose.wdgen.GWDFFEN_Parametres$WDActiviteFenetre"
+97-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3205-3263
+98            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+98-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3264-3373
+99            android:hardwareAccelerated="false"
+99-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3411-3446
+100            android:theme="@android:style/Theme" />
+100-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3374-3410
+101        <activity
+101-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3448-3694
+102            android:name="VYV.leucinose.wdgen.GWDFFEN_dup$WDActiviteFenetre"
+102-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3458-3509
+103            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+103-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3510-3619
+104            android:hardwareAccelerated="false"
+104-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3657-3692
+105            android:theme="@android:style/Theme" />
+105-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3620-3656
+106        <activity
+106-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3694-3948
+107            android:name="VYV.leucinose.wdgen.GWDFFEN_ajouteRepas$WDActiviteFenetre"
+107-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3704-3763
+108            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+108-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3764-3873
+109            android:hardwareAccelerated="false"
+109-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3911-3946
+110            android:theme="@android:style/Theme" />
+110-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3874-3910
+111        <activity
+111-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3948-4197
+112            android:name="VYV.leucinose.wdgen.GWDFFEN_params$WDActiviteFenetre"
+112-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3958-4012
+113            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+113-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4013-4122
+114            android:hardwareAccelerated="false"
+114-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4160-4195
+115            android:theme="@android:style/Theme" />
+115-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4123-4159
+116
+117        <uses-library
+117-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4197-4275
+118            android:name="org.apache.http.legacy"
+118-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4211-4248
+119            android:required="false" />
+119-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4249-4273
+120
+121        <activity
+121-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4275-4504
+122            xmlns:android="http://schemas.android.com/apk/res/android"
+122-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4285-4343
+123            android:name="fr.pcsoft.wdjava.ui.activite.WDActivite$BlankActivity"
+123-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4344-4412
+124            android:theme="@style/Theme.AppCompat.Light.NoActionBar.Translucent" />
+124-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4413-4481
+125        <activity
+125-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4504-4725
+126            xmlns:android="http://schemas.android.com/apk/res/android"
+126-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4514-4572
+127            android:name="fr.pcsoft.wdjava.core.erreur.report.WDErrorReportActivity"
+127-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4573-4645
+128            android:theme="@android:style/Theme.DeviceDefault.Light" />
+128-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4646-4702
+129
+130        <provider
+130-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4725-5087
+131            xmlns:android="http://schemas.android.com/apk/res/android"
+131-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4735-4793
+132            android:name="androidx.core.content.FileProvider"
+132-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4794-4843
+133            android:authorities="VYV.leucinose.fileprovider"
+133-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4844-4892
+134            android:exported="false"
+134-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4893-4917
+135            android:grantUriPermissions="true" >
+135-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4918-4952
+136            <meta-data
+136-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4974-5076
+137                android:name="android.support.FILE_PROVIDER_PATHS"
+137-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4985-5035
+138                android:resource="@xml/provider_paths" />
+138-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5036-5074
+139        </provider>
+140
+141        <receiver
+141-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5087-5285
+142            xmlns:android="http://schemas.android.com/apk/res/android"
+142-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5097-5155
+143            android:name="fr.pcsoft.wdjava.core.utils.WDAppUtils$APKInstallBroadcastReceiver"
+143-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5156-5237
+144            android:exported="false" />
+144-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5238-5262
+145
+146        <activity
+146-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5285-5650
+147            xmlns:android="http://schemas.android.com/apk/res/android"
+147-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5295-5353
+148            android:name="fr.pcsoft.wdjava.ui.searchbar.WDSearchActivity"
+148-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5354-5415
+149            android:label="@string/app_name" >
+149-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5416-5448
+150            <intent-filter>
+150-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5470-5554
+151                <action android:name="android.intent.action.SEARCH" />
+151-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5485-5538
+151-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5493-5536
+152            </intent-filter>
+153
+154            <meta-data
+154-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5554-5639
+155                android:name="android.app.searchable"
+155-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5565-5602
+156                android:resource="@xml/searchable" />
+156-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5603-5637
+157        </activity>
+158
+159        <provider
+159-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5650-5863
+160            xmlns:android="http://schemas.android.com/apk/res/android"
+160-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5660-5718
+161            android:name="fr.pcsoft.wdjava.ui.searchbar.WDSearchHistory"
+161-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5719-5779
+162            android:authorities="VYV.leucinose"
+162-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5805-5840
+163            android:exported="false" />
+163-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5780-5804
+164
+165        <activity
+165-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5863-6013
+166            xmlns:android="http://schemas.android.com/apk/res/android"
+166-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5873-5931
+167            android:name="fr.pcsoft.wdjava.print.WDCloudPrintActivity" />
+167-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5932-5990
+168
+169        <service android:name="fr.pcsoft.wdjava.core.service.WDServiceLocal" />
+169-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6013-6083
+169-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6022-6081
+170
+171        <meta-data
+171-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6083-6163
+172            android:name="fr.pcsoft.first_window_name"
+172-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6094-6136
+173            android:value="FEN_Menu" />
+173-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6137-6161
+174        <meta-data
+174-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6163-6243
+175            android:name="fr.pcsoft.splash_orientation_phone"
+175-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6174-6223
+176            android:value="4" />
+176-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6224-6241
+177        <meta-data
+177-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6243-6324
+178            android:name="fr.pcsoft.splash_orientation_tablet"
+178-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6254-6304
+179            android:value="4" />
+179-->C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6305-6322
+180    </application>
+181
+182</manifest>

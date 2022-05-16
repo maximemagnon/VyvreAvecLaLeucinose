@@ -1,0 +1,458 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1-7011
+INJECTED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1-7011
+INJECTED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1-7011
+INJECTED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1-7011
+MERGED from [WD260Android.aar] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\364b7091f51133f56c656422dcf25c61\WD260Android\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\e515d40e627c4e0412a7c5fa3f288da9\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha03] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\db741089a22b19c660ad6fbefeb526e8\swiperefreshlayout-1.1.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\3ace96a4029172a3d943212dbae0169a\exifinterface-1.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\37ec02f661e3547c5499ecdfd9f3cd1f\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\ccc4f60e4549c263b614feec2a027fa2\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\b0149f4c947c05b760f5cf06ab6d8060\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\8d8ddb8800374545c224b77b34d0f1a2\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\dd07e922b5233b833d82ee834e6becf7\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\beed28e19d4f55ab2c17aff66e0bc400\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\e0d80e5c178a0db065288a448fc598ef\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\4336eb59d7e582316997572d66343b15\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\add2bdb41de46d90e5d3bd4e75929820\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\34085af895daa23049fd0af188e6a001\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\2bf200c3ed6f794fd90e7a7e5e0ea6de\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\f3997ce16a5c00ae84a772d300d0e1e8\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\740a70a0c89c8c085b6e012b4bd7790e\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\331f61861c2d3a925f2252286afb1f53\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\daa47187fb0f0a7c419d1b10e1677cdd\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\d4ef17d609918d2a5f5a86d1ea02678f\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\aa91d8d2653c363bbd5da9d9892260d3\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\0554424e228349ffc3db0700d1324aa1\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\bad233a64070d55cab9a83b26afbf154\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\7acef2a7bfef3795312317efec15d83e\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\420f294924962582b4c42c622af43461\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\66e997bde0b6ece28f7fd36f5f4a1584\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\8787729f29cf7add1bc29c81caccddfd\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1-7011
+INJECTED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1-7011
+INJECTED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1-7011
+	package
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:117-140
+		INJECTED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml
+		INJECTED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:141-171
+		INJECTED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml
+		INJECTED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:70-116
+	xmlns:android
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:172-196
+		INJECTED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml
+		INJECTED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml
+	android:installLocation
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:197-227
+application
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:228-6338
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\e515d40e627c4e0412a7c5fa3f288da9\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\e515d40e627c4e0412a7c5fa3f288da9\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:467-510
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:303-335
+	android:resizeableActivity
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:397-430
+	android:largeHeap
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:371-395
+	android:icon
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:336-370
+	android:usesCleartextTraffic
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:431-466
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:241-302
+activity#VYV.leucinose.wdgen.GWDPleucinose$WDLanceur
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:511-924
+	android:label
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:567-599
+	android:configChanges
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:669-771
+	android:theme
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:600-668
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:521-566
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:772-913
+action#android.intent.action.MAIN
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:787-838
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:795-836
+category#android.intent.category.LAUNCHER
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:838-897
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:848-895
+activity#VYV.leucinose.wdgen.GWDFFEN_Repas$WDActiviteFenetre
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:924-1172
+	android:hardwareAccelerated
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1135-1170
+	android:configChanges
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:988-1097
+	android:theme
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1098-1134
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:934-987
+activity#VYV.leucinose.wdgen.GWDFFEN_ajouteRepasHypo$WDActiviteFenetre
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1172-1430
+	android:hardwareAccelerated
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1393-1428
+	android:configChanges
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1246-1355
+	android:theme
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1356-1392
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1182-1245
+activity#VYV.leucinose.wdgen.GWDFFEN_infos$WDActiviteFenetre
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1430-1678
+	android:hardwareAccelerated
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1641-1676
+	android:configChanges
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1494-1603
+	android:theme
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1604-1640
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1440-1493
+activity#VYV.leucinose.wdgen.GWDFFEN_docs$WDActiviteFenetre
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1678-1925
+	android:hardwareAccelerated
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1888-1923
+	android:configChanges
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1741-1850
+	android:theme
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1851-1887
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1688-1740
+activity#VYV.leucinose.wdgen.GWDFFEN_constantes$WDActiviteFenetre
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1925-2178
+	android:hardwareAccelerated
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2141-2176
+	android:configChanges
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1994-2103
+	android:theme
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2104-2140
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:1935-1993
+activity#VYV.leucinose.wdgen.GWDFFEN_impression$WDActiviteFenetre
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2178-2431
+	android:hardwareAccelerated
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2394-2429
+	android:configChanges
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2247-2356
+	android:theme
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2357-2393
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2188-2246
+activity#VYV.leucinose.wdgen.GWDFFEN_Menu$WDActiviteFenetre
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2431-2678
+	android:hardwareAccelerated
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2641-2676
+	android:configChanges
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2494-2603
+	android:theme
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2604-2640
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2441-2493
+activity#VYV.leucinose.wdgen.GWDFFEN_CameraLectureCodeBarres$WDActiviteFenetre
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2678-2944
+	android:hardwareAccelerated
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2907-2942
+	android:configChanges
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2760-2869
+	android:theme
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2870-2906
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2688-2759
+activity#VYV.leucinose.wdgen.GWDFFEN_echanges$WDActiviteFenetre
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2944-3195
+	android:hardwareAccelerated
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3158-3193
+	android:configChanges
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3011-3120
+	android:theme
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3121-3157
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:2954-3010
+activity#VYV.leucinose.wdgen.GWDFFEN_Parametres$WDActiviteFenetre
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3195-3448
+	android:hardwareAccelerated
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3411-3446
+	android:configChanges
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3264-3373
+	android:theme
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3374-3410
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3205-3263
+activity#VYV.leucinose.wdgen.GWDFFEN_dup$WDActiviteFenetre
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3448-3694
+	android:hardwareAccelerated
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3657-3692
+	android:configChanges
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3510-3619
+	android:theme
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3620-3656
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3458-3509
+activity#VYV.leucinose.wdgen.GWDFFEN_ajouteRepas$WDActiviteFenetre
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3694-3948
+	android:hardwareAccelerated
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3911-3946
+	android:configChanges
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3764-3873
+	android:theme
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3874-3910
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3704-3763
+activity#VYV.leucinose.wdgen.GWDFFEN_params$WDActiviteFenetre
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3948-4197
+	android:hardwareAccelerated
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4160-4195
+	android:configChanges
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4013-4122
+	android:theme
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4123-4159
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:3958-4012
+uses-library#org.apache.http.legacy
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4197-4275
+	android:required
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4249-4273
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4211-4248
+activity#fr.pcsoft.wdjava.ui.activite.WDActivite$BlankActivity
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4275-4504
+	tools:node
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4482-4502
+	xmlns:android
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4285-4343
+	android:theme
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4413-4481
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4344-4412
+activity#fr.pcsoft.wdjava.core.erreur.report.WDErrorReportActivity
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4504-4725
+	tools:node
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4703-4723
+	xmlns:android
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4514-4572
+	android:theme
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4646-4702
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4573-4645
+provider#androidx.core.content.FileProvider
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4725-5087
+	tools:node
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4953-4973
+	android:grantUriPermissions
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4918-4952
+	android:authorities
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4844-4892
+	android:exported
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4893-4917
+	xmlns:android
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4735-4793
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4794-4843
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4974-5076
+	android:resource
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5036-5074
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:4985-5035
+receiver#fr.pcsoft.wdjava.core.utils.WDAppUtils$APKInstallBroadcastReceiver
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5087-5285
+	tools:node
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5263-5283
+	android:exported
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5238-5262
+	xmlns:android
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5097-5155
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5156-5237
+activity#fr.pcsoft.wdjava.ui.searchbar.WDSearchActivity
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5285-5650
+	tools:node
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5449-5469
+	android:label
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5416-5448
+	xmlns:android
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5295-5353
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5354-5415
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5470-5554
+action#android.intent.action.SEARCH
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5485-5538
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5493-5536
+meta-data#android.app.searchable
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5554-5639
+	android:resource
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5603-5637
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5565-5602
+provider#fr.pcsoft.wdjava.ui.searchbar.WDSearchHistory
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5650-5863
+	tools:node
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5841-5861
+	android:authorities
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5805-5840
+	android:exported
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5780-5804
+	xmlns:android
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5660-5718
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5719-5779
+activity#fr.pcsoft.wdjava.print.WDCloudPrintActivity
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5863-6013
+	tools:node
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5991-6011
+	xmlns:android
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5873-5931
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:5932-5990
+service#fr.pcsoft.wdjava.core.service.WDServiceLocal
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6013-6083
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6022-6081
+meta-data#fr.pcsoft.first_window_name
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6083-6163
+	android:value
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6137-6161
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6094-6136
+meta-data#fr.pcsoft.splash_orientation_phone
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6163-6243
+	android:value
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6224-6241
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6174-6223
+meta-data#fr.pcsoft.splash_orientation_tablet
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6243-6324
+	android:value
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6305-6322
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6254-6304
+uses-sdk
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6338-6406
+INJECTED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6338-6406
+MERGED from [WD260Android.aar] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\364b7091f51133f56c656422dcf25c61\WD260Android\AndroidManifest.xml:7:5-9:41
+MERGED from [WD260Android.aar] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\364b7091f51133f56c656422dcf25c61\WD260Android\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\e515d40e627c4e0412a7c5fa3f288da9\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\e515d40e627c4e0412a7c5fa3f288da9\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha03] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\db741089a22b19c660ad6fbefeb526e8\swiperefreshlayout-1.1.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha03] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\db741089a22b19c660ad6fbefeb526e8\swiperefreshlayout-1.1.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\3ace96a4029172a3d943212dbae0169a\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\3ace96a4029172a3d943212dbae0169a\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\37ec02f661e3547c5499ecdfd9f3cd1f\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\37ec02f661e3547c5499ecdfd9f3cd1f\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\ccc4f60e4549c263b614feec2a027fa2\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\ccc4f60e4549c263b614feec2a027fa2\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\b0149f4c947c05b760f5cf06ab6d8060\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\b0149f4c947c05b760f5cf06ab6d8060\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\8d8ddb8800374545c224b77b34d0f1a2\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\8d8ddb8800374545c224b77b34d0f1a2\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\dd07e922b5233b833d82ee834e6becf7\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\dd07e922b5233b833d82ee834e6becf7\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\beed28e19d4f55ab2c17aff66e0bc400\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\beed28e19d4f55ab2c17aff66e0bc400\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\e0d80e5c178a0db065288a448fc598ef\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\e0d80e5c178a0db065288a448fc598ef\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\4336eb59d7e582316997572d66343b15\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\4336eb59d7e582316997572d66343b15\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\add2bdb41de46d90e5d3bd4e75929820\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\add2bdb41de46d90e5d3bd4e75929820\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\34085af895daa23049fd0af188e6a001\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\34085af895daa23049fd0af188e6a001\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\2bf200c3ed6f794fd90e7a7e5e0ea6de\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\2bf200c3ed6f794fd90e7a7e5e0ea6de\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\f3997ce16a5c00ae84a772d300d0e1e8\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\f3997ce16a5c00ae84a772d300d0e1e8\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\740a70a0c89c8c085b6e012b4bd7790e\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\740a70a0c89c8c085b6e012b4bd7790e\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\331f61861c2d3a925f2252286afb1f53\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\331f61861c2d3a925f2252286afb1f53\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\daa47187fb0f0a7c419d1b10e1677cdd\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\daa47187fb0f0a7c419d1b10e1677cdd\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\d4ef17d609918d2a5f5a86d1ea02678f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\d4ef17d609918d2a5f5a86d1ea02678f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\aa91d8d2653c363bbd5da9d9892260d3\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\aa91d8d2653c363bbd5da9d9892260d3\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\0554424e228349ffc3db0700d1324aa1\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\0554424e228349ffc3db0700d1324aa1\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\bad233a64070d55cab9a83b26afbf154\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\bad233a64070d55cab9a83b26afbf154\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\7acef2a7bfef3795312317efec15d83e\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\7acef2a7bfef3795312317efec15d83e\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\420f294924962582b4c42c622af43461\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\420f294924962582b4c42c622af43461\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\66e997bde0b6ece28f7fd36f5f4a1584\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\66e997bde0b6ece28f7fd36f5f4a1584\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\8787729f29cf7add1bc29c81caccddfd\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mmagnon\.gradle\caches\transforms-2\files-2.1\8787729f29cf7add1bc29c81caccddfd\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6338-6406
+	android:targetSdkVersion
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6375-6404
+	android:minSdkVersion
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6348-6374
+		INJECTED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml
+		INJECTED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml
+supports-screens
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6406-6565
+	android:largeScreens
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6481-6508
+	android:smallScreens
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6424-6451
+	android:normalScreens
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6452-6480
+	android:xlargeScreens
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6509-6537
+	android:anyDensity
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6538-6563
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6565-6640
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6582-6638
+uses-permission#android.permission.CAMERA
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6640-6699
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6657-6697
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6699-6773
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6716-6771
+uses-permission#android.permission.INTERNET
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6773-6834
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6790-6832
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6834-6922
+	android:required
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6897-6920
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6848-6896
+uses-feature#android.hardware.camera
+ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6922-7000
+	android:required
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6975-6998
+	android:name
+		ADDED from C:\Mes Projets Mobile\leucinose\Android\gen\AndroidManifest.xml:2:6936-6974
